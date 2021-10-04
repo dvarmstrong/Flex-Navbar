@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+
+.nav{
+    background-color: grey;
+    width: 1000px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+
+
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-evenly;
+    width: 400px;    
+}
+.btn{
+    background-color:aqua;
+    border: black;
+    box-shadow: 5px 5px;
+    
+}
+
+.nav-title{
+    font-family: 'Roboto', sans-serif;
+}
+
